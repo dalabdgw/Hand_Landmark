@@ -12,4 +12,4 @@ It recognizes hand shapes for a given set of images, extracts landmark locations
 It extracts 1 second of audio from a given video file and saves the extracted audio as an MP3 file.
 ```MFCC``` saves the MFCC features extracted from the file, reads skeleton data from a CSV file, and extracts data for the desired columns from a specified range of frames.
 ## Output 🎻
-<img src='./'>
+<img src='./output_frame_8301.jpg'>
