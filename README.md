@@ -1,4 +1,4 @@
-# Hand posture detection🤚🏻
+# Hand pose estimation🤚🏻
 This code helps you to get hand landmark especially when playing piano or violin.
 ## Code Requirements 💻
 * Python
